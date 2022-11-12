@@ -1,2 +1,4 @@
-class Parent{
+class Parent
+{
+	int i = 0;
 }
